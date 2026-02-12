@@ -1,12 +1,2 @@
 
 /* Your CSS Code here. */
- body {
-            font-family: Arial;
-            margin: 20px;
-        }
-        nav a {
-            margin-right: 15px;
-        }
-        section, aside, footer {
-            margin-top: 20px;
-        }
